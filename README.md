@@ -2,7 +2,7 @@
 
 Created a Maven project titled **Day2_23IOTA10**. Done the following tasks in that project.
 
-## Dependencies Added:
+## Dependencies Added to the pom.xml file:
 - i) Apache Log4j SLF4J Binding
 - ii) Apache Commons CLI
 - iii) MongoDB Sync Driver
@@ -21,3 +21,4 @@ Designed a Java program that simulates a basic banking system.
 - **Exception handling** is implemented to manage invalid operations, such as overdrafts, negative transactions, and non-existent accounts.
 
 The files are located in: 23iota10_Day2/src/main/java/bank
+
